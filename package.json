@@ -1,0 +1,25 @@
+{
+  "name": "rubberduckies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://oscar-corredor@github.com/Bert-DVL/rubberduckies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bert-DVL/rubberduckies/issues"
+  },
+  "homepage": "https://github.com/Bert-DVL/rubberduckies#readme",
+  "dependencies": {
+    "botbuilder": "^3.14.1",
+    "opn": "^5.3.0",
+    "restify": "^7.1.1",
+    "websql": "^0.4.4"
+  }
+}
